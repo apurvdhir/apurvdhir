@@ -2,7 +2,7 @@
 - 👀 I’m interested in Robotics and Reinforcement Learning
 - 🌱 I’m currently learning Computer Vision
 - 💞️ I’m looking to collaborate on Robotic Manipulation tasks
-- 📫 How to reach me 
+- 📫 Contact - apurvvermabkn@gmail.com 
 
 <!---
 apurvdhir/apurvdhir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
